@@ -1,8 +1,8 @@
 #!/bin/bash --login
 
 ######### Assign path variables ########
-WORK_DIRECTORY=/mnt/scratch/vascokar/mila/results/qiime2
-METADATA_PATH=/mnt/scratch/vascokar/mila/data/sample_metadata.txt
+WORK_DIRECTORY=/mnt/scratch/vascokar/16s_project/qiime2
+METADATA_PATH=/mnt/scratch/vascokar/16s_project/metadata/sample_metadata.txt
 
 ########## Modules to Load ##########
 
