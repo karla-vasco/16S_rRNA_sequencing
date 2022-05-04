@@ -1,7 +1,7 @@
 #!/bin/bash --login
 
 ######### Assign path variables ########
-WORK_DIRECTORY=/mnt/scratch/vascokar/mila/results/qiime2
+WORK_DIRECTORY=/mnt/scratch/vascokar/16s_project/qiime2
 
 ########## Modules to Load ##########
 
